@@ -55,11 +55,11 @@
 
 | Projeto | Descrição | Tech Stack |
 | :--- | :--- | :--- |
-| 🚢 **[ccv-frete-api](https://github.com/DarkFZ/ccv-frete-api)** | API de cálculo e cotação de fretes marítimos/inter-ilhas em Cabo Verde. | Node.js, JavaScript |
-| 🍽️ **[MenuCV](https://menucv.com)** | Plataforma digital de menus e cardápios online para restaurantes. | Next.js, Tailwind CSS, Supabase |
-| 📘 **ProntoLegis** | PWA offline voltado para rápida consulta e suporte a fiscalizações. | PWA, JavaScript, Tailwind |
-| 🚰 **IoT NhaConta** | Sistema de monitoramento em tempo real de reservatórios d'água com sensor ultrassônico AGS Sr 04 em. | ESP8266, Supabase, C++ |
-| 🏛️ **SICAP** | Sistema seguro de registro e base de dados local. | C#, SQLite |
+| **[ccv-frete-api](https://github.com/DarkFZ/ccv-frete-api)** | API de cálculo e cotação de fretes marítimos/inter-ilhas em Cabo Verde. | Node.js, JavaScript |
+| **[MenuCV](https://menucv.com)** | Plataforma digital de menus e cardápios online para restaurantes. | Next.js, Tailwind CSS, Supabase |
+| **ProntoLegis** | PWA offline voltado para rápida consulta e suporte a fiscalizações. | PWA, JavaScript, Tailwind |
+| **IoT NhaConta** | Sistema de monitoramento em tempo real de reservatórios d'água com sensor ultrassônico AGS Sr 04 em. | ESP8266, Supabase, C++ |
+| **SICAP** | Sistema seguro de registro e base de dados local. | C#, SQLite |
 
 ---
 
